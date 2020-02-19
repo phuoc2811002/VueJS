@@ -1,0 +1,25 @@
+{
+	"shop":[
+		{
+			"idpd": "pd1",
+			"namepd": "Art Work 1",
+			"linkpd": "linkaw1.php",
+			"cost": "49",
+			"imagepd": "shop/nt1.jpg",
+		},
+		{
+			"idpd": "pd2",
+			"namepd": "Art Work 2",
+			"linkpd": "linkaw2.php",
+			"cost": "52",
+			"imagepd": "shop/nt2.jpg",
+		},
+		{
+			"idpd": "pd3",
+			"namepd": "Art Work 3",
+			"linkpd": "linkaw3.php",
+			"cost": "49",
+			"imagepd": "shop/nt3.jpg",
+		},
+	]
+}
